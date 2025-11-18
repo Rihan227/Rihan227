@@ -5,18 +5,18 @@
 
 <div align="center">
 
-        :seedling: Completed **Msc in Big Data Analytics from St.Joseph's Univeristy**
+:seedling: Completed **Msc in Big Data Analytics from St.Joseph's Univeristy**
 
-        :robot: **Graduate in BCA Analytics from Kristu Jayanti University**
+:robot: **Graduate in BCA Analytics from Kristu Jayanti University**
 
-        :speech_balloon: Contact me : **9207276226**
+:speech_balloon: Contact me : **9207276226**
 
-        :mailbox_with_mail: Reach me at: **mohammad.shahzad@quintype.com**
+:mailbox_with_mail: Reach me at: **mohammad.shahzad@quintype.com**
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300px" style="margin-right: 60px" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM0ODc1OTIsIm5iZiI6MTc2MzQ4NzI5MiwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE4VDE3MzQ1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY0YmFiN2VhNGNhMjg2ZTgzMTNmMjBmZWJiMzRmZjQ2N2MyODNhOTExZGNiZmYwMjc0YmM5ZThlNGQ2ZjdiNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Cn53tMS2kZ0HVOGQRpd9ZIjxA93AWtSXDrq-FByC5pg" width="300px" style="margin-right: 60px" />
   <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="300px" />
 </div>
 
