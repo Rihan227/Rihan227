@@ -5,10 +5,13 @@
 
 <div align="center">
 
-:seedling: Completed **Msc in Big Data Analytics from St.Joseph's Univeristy**
-:robot: **Graduate in BCA Analytics from Kristu Jayanti University**
-:speech_balloon: Contact me : **9207276226**
-:mailbox_with_mail: Reach me at: **mohammad.shahzad@quintype.com**
+        :seedling: Completed **Msc in Big Data Analytics from St.Joseph's Univeristy**
+
+        :robot: **Graduate in BCA Analytics from Kristu Jayanti University**
+
+        :speech_balloon: Contact me : **9207276226**
+
+        :mailbox_with_mail: Reach me at: **mohammad.shahzad@quintype.com**
 
 </div>
 
