@@ -1,15 +1,14 @@
-![Header GIF](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+![Header GIF](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
-# Hi :wave:, I'm Muhammed Amil
-### Passionate AI/ML Engineer | Building Scalable and Intelligent Systems
+# Hi :wave:, I'm Mohammmad Rihan Shahzad
+### Data Analyst at Quintype Technologies
 
 <div align="center">
 
-:seedling: I’m currently mastering **MLOps** and **Generative AI**  
-:robot: Exploring **LLMs**, **AI Agents**, and **RAG pipelines**  
-:handshake: Open to collaborating on **AI/ML-driven projects**  
-:speech_balloon: Ask me about **Machine Learning, Deep Learning, NLP, and MLOps**  
-:mailbox_with_mail: Reach me at: **amilasnils008@gmail.com**
+:seedling: Completed **Msc in Big Data Analytics from St.Joseph's Univeristy**
+:robot: **Graduate in BCA Analytics from Kristu Jayanti University**
+:speech_balloon: Contact me : **9207276226**
+:mailbox_with_mail: Reach me at: **mohammad.shahzad@quintype.com**
 
 </div>
 
@@ -23,10 +22,10 @@
 ## :link: Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammed-amil/">
+  <a href="https://www.linkedin.com/in/mohammad-rihan-shahzad/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" />
   </a>
-  <a href="https://instagram.com/muhamedamil/">
+  <a href="https://instagram.com/mohammad._.rihan/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" />
   </a>
 </p>
@@ -79,18 +78,3 @@
 ![Docker](https://img.shields.io/badge/Docker-lightblue?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI/CD-purple?style=for-the-badge)
 
----
-
-## :bar_chart: GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedamil&theme=dark&hide_border=true&layout=compact" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamedamil&theme=dark&hide_border=true&show_icons=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhamedamil&theme=dark&hide_border=true" />
-</p>
-
----
-
-![Snake animation](https://raw.githubusercontent.com/muhamedamil/muhamedamil/output/dist/github-contribution-grid-snake.svg)
