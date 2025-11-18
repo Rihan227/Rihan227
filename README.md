@@ -76,7 +76,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-orange?style=for-the-badge)
 ![Sklearn](https://img.shields.io/badge/Scikit--learn-green?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-red?style=for-the-badge)
+![LookerStudio](https://img.shields.io/badge/LookerStudio-red?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-purple?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge)
 
