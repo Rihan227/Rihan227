@@ -5,12 +5,5 @@
 <h3 align="center">Data Analyst at Quintype Technologies</h3>
 
 <div align="center">
-    ## 🎓 Education
-
-- **MSc in Big Data Analytics**  
-  St. Joseph's University, Bangalore  
-  *Completed: 2025*
-
-- **BCA in Analytics**  
-  Kristu Jayanti College, Bangalore  
-  *Completed: 2023*
+:grinning:
+  
